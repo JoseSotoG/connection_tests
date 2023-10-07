@@ -21,3 +21,8 @@ header>ul{
 header>ul>li{
     margin: 1rem;
 }
+main{
+    width: 40rem;
+    margin: auto;
+    text-align: center;
+}
